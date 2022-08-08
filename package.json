@@ -1,10 +1,10 @@
 {
   "name": "todo8",
   "version": "1.0.0",
-  "description": "",
+  "description": "API para mini sistema de dicas para DEV, com essa API é possivel adicionar uma dica no banco de dados e também listar uma dica aleatoria",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
